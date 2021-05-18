@@ -1,0 +1,3 @@
+﻿  prcatice.c
+D:\VS_project\C\Project_21_5_18\prcatice.c(136,32): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Project_21_5_18.vcxproj -> D:\VS_project\C\Project_21_5_18\Debug\Project_21_5_18.exe
