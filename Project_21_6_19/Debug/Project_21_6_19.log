@@ -1,0 +1,3 @@
+﻿  practice.c
+D:\VS_project\C\Project_21_6_19\practice.c(8,1): warning C4133: “初始化”: 从“int *”到“char *”的类型不兼容
+  Project_21_6_19.vcxproj -> D:\VS_project\C\Project_21_6_19\Debug\Project_21_6_19.exe
